@@ -18,6 +18,6 @@ setup(name='lasotuvi_django',
           "lasotuvi >= 0.1.2",
           "pytz==2018.5",
           "six==1.11.0",
-          "typed-ast==1.1.0",
+          "typed-ast==1.4.0",
       ],
       zip_safe=False)
