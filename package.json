@@ -1,5 +1,5 @@
 {
-  "name": "tuangit/lasotuvi-django-me",
+  "name": "@tuangit/lasotuvi-django-me",
   "version": "1.0.0",
   "description": "phan mem nguon mo lay la so tu vi",
   "main": "index.js",
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tuangit/lasotuvi-django.git"
+    "url": "git+https://github.com/Tuangit/lasotuvi-django-me.git"
   },
   "author": "doanguyen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Tuangit/lasotuvi-django/issues"
+    "url": "https://github.com/Tuangit/lasotuvi-django-me/issues"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "homepage": "https://github.com/Tuangit/lasotuvi-django#readme",
+  "homepage": "https://github.com/Tuangit/lasotuvi-django-me#readme",
   "keywords": []
 }
