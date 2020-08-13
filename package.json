@@ -1,0 +1,19 @@
+{
+  "name": "lasotuvi-django",
+  "version": "1.0.0",
+  "description": "phan mem nguon mo lay la so tu vi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tuangit/lasotuvi-django.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tuangit/lasotuvi-django/issues"
+  },
+  "homepage": "https://github.com/Tuangit/lasotuvi-django#readme"
+}
