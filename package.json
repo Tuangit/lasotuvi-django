@@ -1,5 +1,5 @@
 {
-  "name": "lasotuvi-django-me",
+  "name": "lasotuvi-django",
   "version": "1.0.0",
   "description": "phan mem nguon mo lay la so tu vi",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Tuangit/lasotuvi-django.git"
   },
-  "author": "",
+  "author": "doanguyen",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Tuangit/lasotuvi-django/issues"
