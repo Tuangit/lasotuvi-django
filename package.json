@@ -1,5 +1,5 @@
 {
-  "name": "@tuangit/lasotuvi-django-me",
+  "name": "tuangit/lasotuvi-django-me",
   "version": "1.0.0",
   "description": "phan mem nguon mo lay la so tu vi",
   "main": "index.js",
