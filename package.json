@@ -1,5 +1,5 @@
 {
-  "name": "lasotuvi-django",
+  "name": "@tuangit/lasotuvi-django-me",
   "version": "1.0.0",
   "description": "phan mem nguon mo lay la so tu vi",
   "main": "index.js",
@@ -16,10 +16,8 @@
     "url": "https://github.com/Tuangit/lasotuvi-django/issues"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
   },
-
   "homepage": "https://github.com/Tuangit/lasotuvi-django#readme",
   "keywords": []
-
 }
